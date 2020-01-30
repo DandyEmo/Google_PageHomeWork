@@ -1,0 +1,107 @@
+.g {
+    font-weight: 600;
+    color: rgb(66, 133, 244);
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.o1 {
+    font-weight: 600;
+    color: rgb(234, 67, 53);
+    font-size: 90px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.o2 {
+    font-weight: 600;
+    color: rgb(251, 188, 5);
+    font-size:  90px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.g3 {
+    font-weight: 600;
+    color: rgb(66, 133, 244);
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.l {
+    font-weight: 600;
+    color: rgb(52, 168, 83);
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.e {
+    font-weight: 600;
+    color: rgb(234, 67, 53);
+    font-size: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.position {
+    letter-spacing: -4px;
+    position: relative;
+    top: 150px;
+    text-align: center;
+    padding: 30px;
+}
+.about_store {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 160px;
+    right: 40px;
+    left: 20px;
+    font-size: 13px;
+    padding: 0 0 0 15px;
+    word-spacing: 30px;
+    color: grey;
+    display: inline;
+}
+.gmail_images {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    float: right;
+    bottom: 160px;
+    padding: 0 0 0 15px;
+    font-size: 13px;
+    right: 90px;
+    word-spacing: 15px;
+}
+.search_bar {
+    padding: 20px 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    top: 270px;
+        
+}
+.input {
+    width: 550px;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid rgb(223, 225, 229)
+}
+.search_button {
+    text-align: center;
+    position: relative;
+    top: 200px;
+    
+}
+input[type="button"] {
+    background-color: rgb(242, 242, 242);
+    color: grey;
+    transform: scale(1.1);
+    border-radius: 5px;
+    margin-left: 15px;
+    width: 130px;
+    height: 30px;
+    border: solid transparent;
+}
